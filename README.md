@@ -2,7 +2,7 @@ luci-app-access-control汉化
 ===
 
 
-直接下载主题源码放到package目录下即可 然后make menuconfig就能luci->Applications查看到
+直接下载主题源码放到package目录下即可 然后make menuconfig就能在luci->Applications查看到
 
 
 
